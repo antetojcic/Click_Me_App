@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClickMe</string>
+    <string name="btn_click_text">Click me!</string>
+    <string name="click_count">clicks</string>
+    <string name="podnaslov">Can you click me?</string>
+    <string name="btn_status_text">Status</string>
+    <string name="btn_click_me_text">Click me!</string>
+    <string name="hidden_message">You clicked me too many times!</string>
+    <string name="toast_keep_clicking">Keep clicking!</string>
+    <string name="toast_tired">I am tired, what is your problem mate?</string>
+</resources>
